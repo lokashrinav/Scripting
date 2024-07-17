@@ -1,0 +1,28 @@
+Questions,Type of Answer,Available Answer Options,Answer
+,,,
+Are you eligible to work in the United States?,Dropdown,"Yes, No",Yes
+"Will you, now or in the future, require any immigration related support or sponsorship from Capital One to maintain U.S. work authorization? Please note, immigration related support does include documentation needed for F-1 OPT, F-1 STEM OPT, F-1 CPT and J-1. If you require this type of support, your answer to this question will be “Yes.” Visas that will require sponsorship include H-1B, TN, H-1B1, E-3 and any other EADs that require immigration support from an employer. If you hold any of these visas, your answer to this question will be “Yes.”",Dropdown,"Yes, No",No
+Are you age 18 or over?,Dropdown,"Yes, No",Yes
+"Are you able to perform the essential functions of the job, with or without reasonable accommodations?*
+
+",Dropdown,"Yes, No",Yes
+"Do you meet all of the Basic Qualifications for this role as specified in the job description?*
+
+",Dropdown,"Yes, No",Yes
+"Do you meet the Preferred Qualifications for this role as specified in the job description?*
+",Dropdown,"Yes, No",Yes
+"Capital One has a longstanding commitment to hiring and supporting veterans and military spouses/partners. If you would like to disclose your status, you may do so below. Your responses are confidential and will not be considered in hiring decisions.
+
+Are you currently serving, or have you served in the Armed Forces of the United States of America (including the Reserves and National Guard)?",Dropdown,"Yes, No",No
+"Are you a spouse or partner of someone serving, or who served in the Armed Forces of the United States of America (including the Reserves and National Guard)?
+",Dropdown,"Yes, No",No
+"Have you previously worked at Capital One or a company acquired by Capital One? (For example Capital One Bank, N.A., Capital One Services, Inc., Chevy Chase Bank, Hibernia, ING DIRECT, North Fork Bank)*
+",Dropdown,"Yes, No",No
+"Do you have any relatives employed by Capital One?  (A relative can include a spouse, parent, child, sibling, in-law, grandparent, grandchild, aunt, uncle, first cousin, niece, nephew, step-relative, or any individual with whom you have a close personal relationship such as a domestic partner, co-habitant, or significant other.)*",Dropdown,"Yes, No",No
+"Do you have any close or intimate personal relationships, shared financial interests, or other personal or business ties with anyone currently employed by Capital One?*
+
+",Dropdown,"Yes, No",No
+"Are you currently, or have you ever been, on assignment with Capital One as a contractor, consultant or temp?*",Dropdown,"Yes, No",No
+"Do you have a second job, outside business, or other employment that you will continue or that you plan to engage in while employed by Capital One?  (This includes part-time jobs, contract work, consulting, self-employment, single-member entities/sole proprietorships, social media influencing activities, side gigs, temp work, publishing, advisory or board of director roles with a for-profit entity, and any other type of work, business, or employment).*",Dropdown,"Yes, No",No
+"Do you currently work for, or have you in the past two years worked for, Capital One's independent accounting firm, Ernst & Young?*",Dropdown,"Yes, No",No
+"Are you currently under any form of agreement or policy, with your current or previous employer(s), which would prohibit or restrict you from recruiting or hiring former colleagues or soliciting/doing business with customers, or that limit your ability to compete with a former employer or accept an offer of employment from Capital One? (Such restrictions can typically be found in offer letters, non-compete or non-solicitation agreements, equity and incentive agreements, and/or company handbooks)*",Dropdown,"Yes, No",No
